@@ -17,7 +17,9 @@ function Form() {
          </div>
 
          <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl  bg-blue-400 h-[10vh] pl-10 pt-7">Responsive</button>
+         
       </form>
+      
    );
 }
 
